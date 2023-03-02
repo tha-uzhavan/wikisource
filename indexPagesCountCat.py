@@ -1,4 +1,4 @@
-import csv, time, subprocess, pywikibot, requests, os, பைவிக்கிமூலம்
+import csv, time, subprocess, pywikibot, requests, os, பைவிக்கிமூலம்00
 from bs4 import BeautifulSoup
 
 #--------------------------குறிப்புகள்----------------------------------------------
